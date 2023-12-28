@@ -1,0 +1,1000 @@
+ 1000  python3 prog.py
+ 1001  clear
+ 1002  python3 prog.py
+ 1003  sudo apt update
+ 1004  code . && exit
+ 1005  python prog.py 
+ 1006  cler
+ 1007  clear
+ 1008  python3 prog.py 
+ 1009  clear
+ 1010  pip install pandas
+ 1011  CLEAR
+ 1012  clear
+ 1013  sudo /opt/lampp/lampp start
+ 1014  pip install openyxl
+ 1015  pip install openpyxl
+ 1016  sudo apt update
+ 1017  sudo apt upgrade
+ 1018  cd Bureau/
+ 1019  ls
+ 1020  mkdir NK-TEST
+ 1021  cd NK-TEST/
+ 1022  clear
+ 1023  git clone https://github.com/Noubissie237/TD-2-INF351
+ 1024  sudo apt install git
+ 1025  git clone https://github.com/Noubissie237/TD-2-INF351
+ 1026  clear
+ 1027  ls
+ 1028  cd TD-2-INF351/
+ 1029  clear
+ 1030  ls
+ 1031  cd TD-2/
+ 1032  ls
+ 1033  clear
+ 1034  code .
+ 1035  python prog.py 
+ 1036  python3 prog.py 
+ 1037  clear
+ 1038  python3 prog.py 
+ 1039  clear
+ 1040  python3 prog.py 
+ 1041  clear
+ 1042  python3 prog.py 
+ 1043  clear
+ 1044  python3 prog.py 
+ 1045  clear
+ 1046  python3 prog.py 
+ 1047  clear
+ 1048  python3 prog.py 
+ 1049  clear
+ 1050  python3 prog.py 
+ 1051  clear
+ 1052  python3 prog.py 
+ 1053  clear
+ 1054  python3 prog.py 
+ 1055  clear
+ 1056  python3 prog.py 
+ 1057  clear
+ 1058  python3 prog.py 
+ 1059  clear
+ 1060  python3 prog.py 
+ 1061  clear
+ 1062  python3 prog.py 
+ 1063  clear
+ 1064  python3 prog.py 
+ 1065  clear
+ 1066  python3 prog.py 
+ 1067  clear
+ 1068  python3 prog.py 
+ 1069  clear
+ 1070  python3 prog.py 
+ 1071  clear
+ 1072  python3 prog.py 
+ 1073  clear
+ 1074  python3 prog.py 
+ 1075  clear
+ 1076  python3 prog.py 
+ 1077  clear
+ 1078  python3 prog.py 
+ 1079  clear
+ 1080  python3 prog.py 
+ 1081  clear
+ 1082  python3 prog.py 
+ 1083  clear
+ 1084  python3 prog.py 
+ 1085  clear
+ 1086  python3 prog.py 
+ 1087  clear
+ 1088  python3 prog.py 
+ 1089  clear
+ 1090  python3 prog.py 
+ 1091  clear
+ 1092  python3 prog.py 
+ 1093  clear
+ 1094  python3 prog.py 
+ 1095  clear
+ 1096  python3 prog.py 
+ 1097  clear
+ 1098  python3 prog.py 
+ 1099  clear
+ 1100  python3 prog.py 
+ 1101  clear
+ 1102  python3 prog.py 
+ 1103  clear
+ 1104  python3 prog.py 
+ 1105  clear
+ 1106  python3 prog.py 
+ 1107  clear
+ 1108  python3 prog.py 
+ 1109  clear
+ 1110  python3 prog.py 
+ 1111  clear
+ 1112  python3 prog.py 
+ 1113  clear
+ 1114  python3 prog.py 
+ 1115  clear
+ 1116  python3 prog.py 
+ 1117  clear
+ 1118  python3 prog.py 
+ 1119  clear
+ 1120  python3 prog.py 
+ 1121  clear
+ 1122  python3 prog.py 
+ 1123  clear
+ 1124  python3 prog.py 
+ 1125  clear
+ 1126  python3 prog.py 
+ 1127  clear
+ 1128  python3 prog.py 
+ 1129  clear
+ 1130  python3 prog.py 
+ 1131  clear
+ 1132  python3 prog.py 
+ 1133  clear
+ 1134  python3 prog.py 
+ 1135  clear
+ 1136  python3 prog.py 
+ 1137  clear
+ 1138  python3 prog.py 
+ 1139  clear
+ 1140  python3 prog.py 
+ 1141  clear
+ 1142  python3 prog.py 
+ 1143  clear
+ 1144  python3 prog.py 
+ 1145  clear
+ 1146  python3 prog.py 
+ 1147  clear
+ 1148  python3 prog.py 
+ 1149  clear
+ 1150  python3 prog.py 
+ 1151  rm *.class
+ 1152  clear
+ 1153  javac Main2.java 
+ 1154  exit
+ 1155  clear
+ 1156  python3 prog.py 
+ 1157  clear
+ 1158  python3 prog.py 
+ 1159  clear
+ 1160  python3 prog.py 
+ 1161  clear
+ 1162  python3 prog.py 
+ 1163  clear
+ 1164  python3 prog.py 
+ 1165  clear
+ 1166  python3 prog.py 
+ 1167  clear
+ 1168  python3 prog.py 
+ 1169  clear
+ 1170  python3 prog.py 
+ 1171  clear
+ 1172  python3 prog.py 
+ 1173  clear
+ 1174  python3 prog.py 
+ 1175  clear
+ 1176  python3 prog.py 
+ 1177  clear
+ 1178  python3 prog.py 
+ 1179  clear
+ 1180  python3 prog.py 
+ 1181  clear
+ 1182  python3 prog.py 
+ 1183  clear
+ 1184  python3 prog.py 
+ 1185  clear
+ 1186  python3 prog.py 
+ 1187  clear
+ 1188  python3 prog.py 
+ 1189  code .
+ 1190  clear
+ 1191  python3 prog.py 
+ 1192  clear
+ 1193  python3 prog.py 
+ 1194  clear
+ 1195  python3 prog.py 
+ 1196  clear
+ 1197  python3 prog.py 
+ 1198  clear
+ 1199  python3 prog.py 
+ 1200  clear
+ 1201  python3 prog.py 
+ 1202  clear
+ 1203  python3 prog.py 
+ 1204  clear
+ 1205  python3 prog.py 
+ 1206  clear
+ 1207  python3 prog.py 
+ 1208  clear
+ 1209  python3 prog.py 
+ 1210  clear
+ 1211  python3 prog.py 
+ 1212  clear
+ 1213  python3 prog.py 
+ 1214  clear
+ 1215  python3 prog.py 
+ 1216  clear
+ 1217  python3 prog.py 
+ 1218  clear
+ 1219  python3 prog.py 
+ 1220  clear
+ 1221  python3 prog.py 
+ 1222  clear
+ 1223  python3 prog.py 
+ 1224  clear
+ 1225  python3 prog.py 
+ 1226  clear
+ 1227  python3 prog.py 
+ 1228  clear
+ 1229  python3 prog.py 
+ 1230  clear
+ 1231  python3 prog.py 
+ 1232  clear
+ 1233  python3 prog.py 
+ 1234  clear
+ 1235  python3 prog.py 
+ 1236  clear
+ 1237  python3 prog.py 
+ 1238  clear
+ 1239  python3 prog.py 
+ 1240  clear
+ 1241  python3 prog.py 
+ 1242  clear
+ 1243  python3 prog.py 
+ 1244  clear
+ 1245  python3 prog.py 
+ 1246  clear
+ 1247  python3 prog.py 
+ 1248  clear
+ 1249  python3 prog.py 
+ 1250  clear
+ 1251  python3 prog.py 
+ 1252  python main.py 
+ 1253  clear
+ 1254  python3 main.py 
+ 1255  clear
+ 1256  python3 main.py 
+ 1257  clear
+ 1258  python3 main.py 
+ 1259  clear
+ 1260  python3 main.py 
+ 1261  clear
+ 1262  python3 main.py 
+ 1263  code . && exit
+ 1264  python3 prog.py 
+ 1265  code . && exit
+ 1266  python3 prog.py 
+ 1267  code . && exit
+ 1268  sudo /opt/lampp/lampp start
+ 1269  sudo /opt/lampp/lampp stop
+ 1270  sudo /opt/lampp/lampp start
+ 1271  sudo /opt/lampp/lampp stop
+ 1272  sudo /opt/lampp/lampp start
+ 1273  sudo /opt/lampp/lampp stop
+ 1274  code . && exit
+ 1275  ifconfig
+ 1276  sudo apt install net-tools
+ 1277  clear
+ 1278  sudo apt install net-tools
+ 1279  clear
+ 1280  ifconfig
+ 1281  clear
+ 1282  ifconfig
+ 1283  sudo /opt/lampp/lampp start
+ 1284  sudo ufw status
+ 1285  sudo ufw allow https
+ 1286  sudo ufw allow http
+ 1287  sudo ufw allow tcp
+ 1288  sudo ufw show
+ 1289  sudo ufw enable 
+ 1290  sudo /opt/lampp/lampp stop
+ 1291  sudo /opt/lampp/lampp start
+ 1292  code . && exit
+ 1293  chmod +x xampp-linux-x64-8.2.4-0-installer.run
+ 1294  ./xampp-linux-x64-8.2.4-0-installer.run
+ 1295  sudo chmod +x xampp-linux-x64-8.2.4-0-installer.run
+ 1296  ./xampp-linux-x64-8.2.4-0-installer.run
+ 1297  sudo ./xampp-linux-x64-8.2.4-0-installer.run
+ 1298  sudo /opt/lampp/lampp start
+ 1299  netstat
+ 1300  netstat 8080
+ 1301  clear
+ 1302  sudo /opt/lampp/lampp restart
+ 1303  ps
+ 1304  sudo systemctl stop apache2
+ 1305  sudo /opt/lampp/lampp restart
+ 1306  code .
+ 1307  cd ..
+ 1308  cd projet
+ 1309  cd projet_Hosto/
+ 1310  ls
+ 1311  source vert/bin/activate
+ 1312  cd gestion_hopital/
+ 1313  python3 manage.py runserver
+ 1314  python3 progBiblio.py 
+ 1315  clear
+ 1316  python3 progBiblio.py 
+ 1317  clear
+ 1318  python3 progBiblio.py 
+ 1319  clear
+ 1320  python3 progBiblio.py 
+ 1321  clear
+ 1322  python3 progBiblio.py 
+ 1323  clear
+ 1324  python3 progBiblio.py 
+ 1325  clear
+ 1326  python3 progBiblio.py 
+ 1327  clear
+ 1328  python3 progBiblio.py 
+ 1329  clear
+ 1330  python3 progBiblio.py 
+ 1331  clear
+ 1332  python3 progBiblio.py 
+ 1333  clear
+ 1334  python3 progBiblio.py 
+ 1335  clear
+ 1336  python3 progBiblio.py 
+ 1337  python3 progFilm.py 
+ 1338  python3 progBiblio.py 
+ 1339  clear
+ 1340  python3 progBiblio.py 
+ 1341  clear
+ 1342  python3 progBiblio.py 
+ 1343  clear
+ 1344  python3 progBiblio.py 
+ 1345  clear
+ 1346  python3 progBiblio.py 
+ 1347  clear
+ 1348  python3 progBiblio.py 
+ 1349  clear
+ 1350  python3 progBiblio.py 
+ 1351  clear
+ 1352  python3 progBiblio.py 
+ 1353  clear
+ 1354  python3 progBiblio.py 
+ 1355  clear
+ 1356  python3 progBiblio.py 
+ 1357  clear
+ 1358  python3 progBiblio.py 
+ 1359  clear
+ 1360  python3 progBiblio.py 
+ 1361  clear
+ 1362  python3 progBiblio.py 
+ 1363  clear
+ 1364  python3 progBiblio.py 
+ 1365  clear
+ 1366  python3 progBiblio.py 
+ 1367  clear
+ 1368  python3 progBiblio.py 
+ 1369  clear
+ 1370  python3 progBiblio.py 
+ 1371  clear
+ 1372  python3 progBiblio.py 
+ 1373  clear
+ 1374  python3 progBiblio.py 
+ 1375  clear
+ 1376  python3 progBiblio.py 
+ 1377  clear
+ 1378  python3 progBiblio.py 
+ 1379  clear
+ 1380  python3 progBiblio.py 
+ 1381  clear
+ 1382  python3 progBiblio.py 
+ 1383  clear
+ 1384  python3 progBiblio.py 
+ 1385  clear
+ 1386  python3 progBiblio.py 
+ 1387  clear
+ 1388  python3 progBiblio.py 
+ 1389  clearclearclear
+ 1390  clear
+ 1391  clearclearclear
+ 1392  clear
+ 1393  python3 progBiblio.py 
+ 1394  clear
+ 1395  python3 progBiblio.py 
+ 1396  clear
+ 1397  python3 progBiblio.py 
+ 1398  clear
+ 1399  python3 progBiblio.py 
+ 1400  clear
+ 1401  python3 progBiblio.py 
+ 1402  clear
+ 1403  python3 progBiblio.py 
+ 1404  clear
+ 1405  python3 progBiblio.py 
+ 1406  code . && exit
+ 1407  sudo apt update
+ 1408  sudo apt install wine
+ 1409  cd ~
+ 1410  ls
+ 1411  cd Téléchargements/
+ 1412  wine eNSP-Setup.exe 
+ 1413  sudo apt install wireshark
+ 1414  sudo npcap-1.10.exe
+ 1415  sudo ./Win
+ 1416  sudo npcap-1.10.exe-x64.run
+ 1417  sudo npcap-<1.10.exe>-<x64>.run
+ 1418  wine eNSP-Setup.exe 
+ 1419  sudo apt install virtualbox
+ 1420  wine npcap-1.10.exe 
+ 1421  wine WinPcap_4_1_3.exe 
+ 1422  wine npcap-1.10.exe 
+ 1423  wine eNSP-Setup.exe 
+ 1424  wine wireshark
+ 1425  wine Wireshark-4.2.0-x64.exe 
+ 1426  wine eNSP-Setup.exe 
+ 1427  wine WinPcap_4_1_3.exe 
+ 1428  yum install VirtualBox-6.1
+ 1429  gum install VirtualBox-6.1
+ 1430  wine eNSP-Setup.exe 
+ 1431  wine Wireshark-4.2.0-x64.exe 
+ 1432  wine WinPcap_4_1_3.exe 
+ 1433  wine npcap-1.10.exe 
+ 1434  wine WinPcap_4_1_3.exe 
+ 1435  wine eNSP-Setup.exe 
+ 1436  sudo /opt/lampp/lampp start
+ 1437  sudo /opt/lampp/lampp restart
+ 1438  sudo /opt/lampp/lampp stop
+ 1439  sudo /opt/lampp/lampp start
+ 1440  wine Wireshark-4.2.0-x64.exe 
+ 1441  sudo /opt/lampp/lampp stop
+ 1442  exit
+ 1443  clear
+ 1444  python3 progBiblio.py 
+ 1445  clear
+ 1446  python3 progBiblio.py 
+ 1447  clear
+ 1448  python3 progBiblio.py 
+ 1449  clear
+ 1450  python3 progBiblio.py 
+ 1451  clear\
+ 1452  python3 progBiblio.py 
+ 1453  clear\
+ 1454  python3 progBiblio.py 
+ 1455  clear
+ 1456  python3 progBiblio.py 
+ 1457  clear
+ 1458  python3 progBiblio.py 
+ 1459  clear
+ 1460  python3 progBiblio.py 
+ 1461  clear
+ 1462  python3 progBiblio.py 
+ 1463  clear
+ 1464  python3 progBiblio.py 
+ 1465  clear
+ 1466  python3 progBiblio.py 
+ 1467  clear
+ 1468  python3 progBiblio.py 
+ 1469  clear
+ 1470  python3 progBiblio.py 
+ 1471  clear
+ 1472  python3 progBiblio.py 
+ 1473  clear
+ 1474  python3 progBiblio.py 
+ 1475  clear
+ 1476  python3 progBiblio.py 
+ 1477  clear
+ 1478  python3 progBiblio.py 
+ 1479  clear
+ 1480  python3 progBiblio.py 
+ 1481  clear
+ 1482  python3 progBiblio.py 
+ 1483  clear
+ 1484  python3 progBiblio.py 
+ 1485  clear
+ 1486  python3 progBiblio.py 
+ 1487  clear
+ 1488  python3 progBiblio.py 
+ 1489  clear
+ 1490  python3 progBiblio.py 
+ 1491  clear
+ 1492  python3 progBiblio.py 
+ 1493  clear
+ 1494  python3 progBiblio.py 
+ 1495  clear
+ 1496  python3 progBiblio.py 
+ 1497  clear
+ 1498  python3 progBiblio.py 
+ 1499  clear
+ 1500  python3 progBiblio.py 
+ 1501  clear
+ 1502  python3 progBiblio.py 
+ 1503  clear
+ 1504  python3 progBiblio.py 
+ 1505  clear
+ 1506  python3 progBiblio.py 
+ 1507  clear
+ 1508  python3 progBiblio.py 
+ 1509  clear
+ 1510  python3 progBiblio.py 
+ 1511  clear
+ 1512  python3 progBiblio.py 
+ 1513  clear
+ 1514  python3 progBiblio.py 
+ 1515  clear
+ 1516  python3 progBiblio.py 
+ 1517  clear
+ 1518  python3 progBiblio.py 
+ 1519  clear
+ 1520  python3 progBiblio.py 
+ 1521  clear
+ 1522  python3 progBiblio.py 
+ 1523  clear
+ 1524  python3 progBiblio.py 
+ 1525  clear
+ 1526  python3 progBiblio.py 
+ 1527  clear
+ 1528  python3 progBiblio.py 
+ 1529  clear
+ 1530  python3 progBiblio.py 
+ 1531  clear
+ 1532  python3 progBiblio.py 
+ 1533  clear
+ 1534  python3 progBiblio.py 
+ 1535  clear
+ 1536  python3 progBiblio.py 
+ 1537  clear
+ 1538  python3 progBiblio.py 
+ 1539  clear
+ 1540  python3 progBiblio.py 
+ 1541  clear
+ 1542  python3 progBiblio.py 
+ 1543  clear
+ 1544  python3 progBiblio.py 
+ 1545  clear
+ 1546  python3 progBiblio.py 
+ 1547  clear
+ 1548  python3 progBiblio.py 
+ 1549  clear
+ 1550  python3 progBiblio.py 
+ 1551  clear
+ 1552  python3 progBiblio.py 
+ 1553  clear
+ 1554  python3 progBiblio.py 
+ 1555  clear
+ 1556  python3 progBiblio.py 
+ 1557  clear
+ 1558  python3 progBiblio.py 
+ 1559  clear
+ 1560  wine WinPcap_4_1_3.exe 
+ 1561  winw eNSP-Setup.exe 
+ 1562  wine eNSP-Setup.exe 
+ 1563  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1564  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1565  wine eNSP-Setup.exe 
+ 1566  sudo apt remove virtualbox
+ 1567  sudo apt purge virtualbox
+ 1568  sudo apt update
+ 1569  sudo apt install virtualbox
+ 1570  sudo apt remove virtualbox
+ 1571  wine WinPcap_4_1_3.exe 
+ 1572  wine Wireshark-4.2.0-x64.exe 
+ 1573  wine eNSP-Setup.exe 
+ 1574  wine Wireshark-4.2.0-x64.exe 
+ 1575  wine WinPcap_4_1_3.exe 
+ 1576  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1577  wine  eNSP-Setup.exe 
+ 1578  wine VirtualBox-6.1.48-159471-Win.exe 
+ 1579  sudo apt update
+ 1580  sudo apt install virtualbox
+ 1581  wine  eNSP-Setup.exe 
+ 1582  wine VirtualBox-6.1.48-159471-Win.exe 
+ 1583  wine  eNSP-Setup.exe 
+ 1584  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1585  wine VirtualBox-6.1.48-159471-Win.exe 
+ 1586  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1587  wine  eNSP-Setup.exe 
+ 1588  cd ..
+ 1589  clear
+ 1590  cd Téléchargements/
+ 1591  clear
+ 1592  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1593  wine eNSP-Setup.exe 
+ 1594  wine VirtualBox-5.2.44-139111-Win.exe 
+ 1595  wine TOS_BD-win-x86_64.exe 
+ 1596  wine TOS_BD-linux-gtk-aarch64.ini
+ 1597  wine TOS_BD-linux-gtk-aarch64
+ 1598  code . && exit
+ 1599  sudo /opt/lampp/lampp start
+ 1600  sudo systemctl stop apache2
+ 1601  clear
+ 1602  sudo systemctl stop apache2
+ 1603  sudo /opt/lampp/lampp start
+ 1604  sudo /opt/lampp/lampp stop
+ 1605  sudo /opt/lampp/lampp start
+ 1606  sudo /opt/lampp/lampp stop
+ 1607  sudo /opt/lampp/lampp start
+ 1608  sudo /opt/lampp/lampp stop
+ 1609  sudo /opt/lampp/lampp start
+ 1610  sudo /opt/lampp/lampp stop
+ 1611  sudo /opt/lampp/lampp start
+ 1612  wine Wireshark-4.2.0-x64.exe 
+ 1613  sudo apt remove wireshark
+ 1614  sudo apt remove wincap
+ 1615  sudo apt remove winpcap
+ 1616  sudo apt remove WinPcap
+ 1617  ./virtualbox
+ 1618  code . && exit
+ 1619  sudo /opt/lampp/lampp start
+ 1620  sudo systemctl stop apache2
+ 1621  sudo /opt/lampp/lampp start
+ 1622  code .
+ 1623  python3 prog.py
+ 1624  clear
+ 1625  python3 prog.py
+ 1626  clear
+ 1627  python3 prog.py
+ 1628  clear
+ 1629  python3 prog.py
+ 1630  clear
+ 1631  python3 prog.py
+ 1632  clear
+ 1633  python3 prog.py
+ 1634  clear
+ 1635  python3 prog.py
+ 1636  clear
+ 1637  python3 prog.py
+ 1638  clear
+ 1639  python3 prog.py
+ 1640  clear
+ 1641  python3 prog.py
+ 1642  clear
+ 1643  python3 prog.py
+ 1644  clear
+ 1645  python3 prog.py
+ 1646  clear
+ 1647  python3 prog.py
+ 1648  clear
+ 1649  python3 prog.py
+ 1650  clear
+ 1651  python3 prog.py
+ 1652  clear
+ 1653  python3 prog.py
+ 1654  code .
+ 1655  code . && exit
+ 1656  cd ..
+ 1657  mv env/ Gestion-du-personnel-hospitalier/
+ 1658  sudo mv env/ Gestion-du-personnel-hospitalier/
+ 1659  cd Gestion-du-personnel-hospitalier/
+ 1660  ls
+ 1661  git clone https://github.com/Noubissie237/Gestion-du-personnel-hospitalier.git
+ 1662  sudo python3 -m venv env
+ 1663  ls
+ 1664  source env/bin/activate
+ 1665  cd Gestion-du-personnel-hospitalier/
+ 1666  ls
+ 1667  cd GestionPersonnel/
+ 1668  clear
+ 1669  code .
+ 1670  ls
+ 1671  python3 manage.py runserver
+ 1672  git
+ 1673  clear
+ 1674  mkdir projetHosto2
+ 1675  cd projetHosto2/
+ 1676  git clone https://github.com/Noubissie237/Gestion-du-personnel-hospitalier.git
+ 1677  python3 -m venv env
+ 1678  ls
+ 1679  rm -r env/
+ 1680  clear
+ 1681  python3 -m venv env
+ 1682  sudo apt install python3.10-venv
+ 1683  cleqr
+ 1684  clear
+ 1685  sudo rm env/
+ 1686  sudo rm -r env/
+ 1687  clear
+ 1688  python3 -venv env
+ 1689  python3 -m venv env
+ 1690  ls
+ 1691  sudo rm -r env/
+ 1692  python3 -m venv env
+ 1693  source env/bin/activate
+ 1694  cd Gestion-du-personnel-hospitalier/
+ 1695  ls
+ 1696  cd GestionPersonnel/
+ 1697  ls
+ 1698  pip install -r requirements.txt 
+ 1699  python3 manage.py runserver
+ 1700  source "/home/nnos/Bureau/Nouveau dossier 1/env/bin/activate"
+ 1701  python3 manage.py runserver
+ 1702  deactivate
+ 1703  ls
+ 1704  cd ..
+ 1705  ls
+ 1706  source env/bin/activate
+ 1707  cd GestionPersonnel/
+ 1708  python3 manage.py runserver
+ 1709  python3 manage.py makemigrations
+ 1710  python3 manage.py migrate
+ 1711  clear
+ 1712  python3 manage.py makemigrations
+ 1713  clear
+ 1714  python3 manage.py makemigrations
+ 1715  clear
+ 1716  python3 manage.py makemigrations
+ 1717  clear
+ 1718  python3 manage.py makemigrations
+ 1719  source env/bin/activate
+ 1720  cd GestionPersonnel/
+ 1721  clear
+ 1722  python3 manage.py runserver
+ 1723  ls
+ 1724  pip install -r requirements.txt
+ 1725  python3 manage.py runserver
+ 1726  python3 manage.py createsuperuser
+ 1727  cd GestionPersonnel/
+ 1728  pip install -r requirements.txt
+ 1729  clear
+ 1730  python3 manage.py createsuperuser
+ 1731  python3 manage.py makemigrations
+ 1732  python3 manage.py createsuperuser
+ 1733  python3 manage.py migrate
+ 1734  python3 manage.py createsuperuser
+ 1735  python3 manage.py runserver
+ 1736  deactivate
+ 1737  source env/bin/activate
+ 1738  deactivate 
+ 1739  mkdir GestionRendezvous
+ 1740  cd GestionRendezvous/
+ 1741  cd ..
+ 1742  source env/bin/activate
+ 1743  cd GestionRendezvous/
+ 1744  ls
+ 1745  django admin startproject GestionRendezVous
+ 1746  django-admin startproject GestionRendezVous
+ 1747  ls
+ 1748  cd Ges
+ 1749  cd GestionRendezVous/
+ 1750  ls
+ 1751  django-admin startapp app1
+ 1752  ls
+ 1753  clear
+ 1754  cd ..
+ 1755  mkdir static templates 
+ 1756  pwd
+ 1757  ls
+ 1758  cd GestionPersonnel/
+ 1759  clear
+ 1760  ls
+ 1761  clear
+ 1762  python3 manage.py runserver
+ 1763  cd ..
+ 1764  ls
+ 1765  clear
+ 1766  ls
+ 1767  cd projet_Hosto/
+ 1768  ls
+ 1769  source vert/bin/activate
+ 1770  cd gestion_hopital/
+ 1771  ls
+ 1772  clear
+ 1773  ls
+ 1774  clear
+ 1775  python3 manage.py runserver 8082
+ 1776  ls
+ 1777  cd GestionRendezVous/
+ 1778  ls
+ 1779  python3 manage.py makemigrations
+ 1780  clear
+ 1781  python3 manage.py makemigrations
+ 1782  clear
+ 1783  python3 manage.py makemigrations
+ 1784  python3 manage.py migrate
+ 1785  python3 manage.py runserver
+ 1786  python3 manage.py runserver 8081
+ 1787  python3 manage.py createsuperuser 
+ 1788  python3 manage.py runserver 8081
+ 1789  clear
+ 1790  python3 manage.py runserver 
+ 1791  clear
+ 1792  python3 manage.py makemigrations
+ 1793  python3 manage.py migrate
+ 1794  clear
+ 1795  python3 manage.py runserver 
+ 1796  clear
+ 1797  python3 manage.py runserver 
+ 1798  clear
+ 1799  python3 manage.py runserver 
+ 1800  clear
+ 1801  python3 manage.py runserver 
+ 1802  clear
+ 1803  python3 manage.py runserver 
+ 1804  ls
+ 1805  [200~echo "# Gestion-_des-_Rendez-Vous" >> README.md
+ 1806  git init
+ 1807  git add README.md
+ 1808  git commit -m "first commit"
+ 1809  git branch -M main
+ 1810  git remote add origin https://github.com/Nnos5/Gestion-_des-_Rendez-Vous.git
+ 1811  clear
+ 1812  ls
+ 1813  sudo ls
+ 1814  clqer
+ 1815  clear
+ 1816  sudo rm -r .git/
+ 1817  clear
+ 1818  ls
+ 1819  git status
+ 1820  clear
+ 1821  code .
+ 1822  code .
+ 1823  ssh-keygen 
+ 1824  cat /home/nnos/.ssh/id_rsa.pub 
+ 1825  clear
+ 1826  ls
+ 1827  cd <<
+ 1828  clear
+ 1829  cd ..
+ 1830  ls
+ 1831  code .
+ 1832  ls
+ 1833  source env/bin/activate
+ 1834  pip freeze > requirements.txt
+ 1835  git init
+ 1836  git add .
+ 1837  git commit -m "Premier push"
+ 1838  git config --global user.name "Nnos5"
+ 1839  git config --global user.email "ndeunas@gmail.com"
+ 1840  git commit -m "Premier push"
+ 1841  git log
+ 1842  git remote add origin https://github.com/Nnos5/Gestion-_des-_Rendez-Vous.git
+ 1843  git push -u origin master 
+ 1844  cd GestionRendezvous/GestionRendezVous/
+ 1845  ls
+ 1846  clear
+ 1847  s]
+ 1848  source env/bin/activate
+ 1849  cd GestionRendezvous/GestionRendezVous/
+ 1850  clear
+ 1851  python3 manage.py runserver
+ 1852  python3 manage.py runserver 8081
+ 1853  clear
+ 1854  python3 manage.py runserver 8081
+ 1855  python3 manage.py makemigrations
+ 1856  python3 manage.py runserver 8081
+ 1857  clear
+ 1858  python3 manage.py runserver 8081
+ 1859  clear
+ 1860  python3 manage.py makemigrations
+ 1861  clear
+ 1862  python3 manage.py makemigrations
+ 1863  python3 manage.py migrate
+ 1864  python3 manage.py runserver 8081
+ 1865  ls
+ 1866  cd ..
+ 1867  ls
+ 1868  cd ..
+ 1869  ls
+ 1870  source env/bin/activate
+ 1871  cd GestionRendezvous/
+ 1872  cd GestionRendezVous/
+ 1873  LS
+ 1874  ls
+ 1875  clear
+ 1876  python3 manage.py runserver
+ 1877  clear
+ 1878  python3 manage.py runserver
+ 1879  clear
+ 1880  python3 manage.py makemigrations
+ 1881  clear
+ 1882  python3 manage.py makemigrations
+ 1883  clear
+ 1884  python3 manage.py makemigrations
+ 1885  clear
+ 1886  python3 manage.py makemigrations
+ 1887  clear
+ 1888  python3 manage.py makemigrations
+ 1889  clear
+ 1890  python3 manage.py makemigrations
+ 1891  clear
+ 1892  python3 manage.py makemigrations
+ 1893  clear
+ 1894  python3 manage.py makemigrations
+ 1895  clear
+ 1896  python3 manage.py makemigrations
+ 1897  clear
+ 1898  python3 manage.py makemigrations
+ 1899  clear
+ 1900  python3 manage.py makemigrations
+ 1901  python3 manage.py runserver
+ 1902  clear
+ 1903  python manage.py makemigrations
+ 1904  python3 manage.py makemigrations
+ 1905  python manage.py makemigrations
+ 1906  clear
+ 1907  python3 manage.py makemigrations
+ 1908  clear
+ 1909  python3 manage.py makemigrations
+ 1910  clear
+ 1911  python3 manage.py makemigrations
+ 1912  clear
+ 1913  python3 manage.py makemigrations
+ 1914  clear
+ 1915  python3 manage.py makemigrations
+ 1916  python3 manage.py migrate
+ 1917  python3 manage.py runserver
+ 1918  code .
+ 1919  code . && exit
+ 1920  ls
+ 1921  source vert/bin/activate
+ 1922  cd gestion_hopital/
+ 1923  ls
+ 1924  python3 manage.py runserver 8082
+ 1925  cd ..
+ 1926  source env/bin/activate
+ 1927  cd GestionRendezvous/GestionRendezVous/
+ 1928  clear
+ 1929  python3 manage.py runserver 8081
+ 1930  code .
+ 1931  cp /home/nnos/projetHosto2/Gestion-du-personnel-hospitalier/GestionPersonnel/templates/personnel/Rendezvous.html 
+ 1932  cp /home/nnos/projetHosto2/Gestion-du-personnel-hospitalier/GestionPersonnel/templates/personnel/Rendezvous.html /..
+ 1933  sudo cp /home/nnos/projetHosto2/Gestion-du-personnel-hospitalier/GestionPersonnel/templates/personnel/Rendezvous.html ~/Bureau/hosto2/GestionRendezvous/GestionRendezVous/
+ 1934  code .
+ 1935  code .
+ 1936  chmod +x ./Rendezvous.html 
+ 1937  sudo chmod +x ./Rendezvous.html 
+ 1938  sudo chmod +r ./Rendezvous.html 
+ 1939  sudo chmod +a ./Rendezvous.html 
+ 1940  touch token.txt
+ 1941  echo "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">token.txt
+ 1942  cat token.txt 
+ 1943  code .
+ 1944  code .
+ 1945  clear
+ 1946  cd ..
+ 1947  source env/bin/activate
+ 1948  cd GestionRendezvous/GestionRendezVous/
+ 1949  clear
+ 1950  ls
+ 1951  cleat
+ 1952  clear
+ 1953  python3 manage.py runserver
+ 1954  clear
+ 1955  python3 manage.py runserver
+ 1956  clear
+ 1957  python3 manage.py runserver
+ 1958  clear
+ 1959  python3 manage.py runserver
+ 1960  git
+ 1961  git add
+ 1962  git add .
+ 1963  cd ..
+ 1964  source env/bin/activate
+ 1965  cd GestionRendezvous/GestionRendezVous/
+ 1966  clear
+ 1967  ls
+ 1968  python3 manage.py runserver 
+ 1969  clear
+ 1970  python3 manage.py runserver 
+ 1971  clear
+ 1972  python3 manage.py makemigrations
+ 1973  clear
+ 1974  python3 manage.py makemigrations
+ 1975  python3 manage.py migrate
+ 1976  clear
+ 1977  python3 manage.py runserver 
+ 1978  clear
+ 1979  python3 manage.py runserver 
+ 1980  /bin/python3
+ 1981  clear
+ 1982  cd ..
+ 1983  cd..
+ 1984  cd ..
+ 1985  source env/bin/activate
+ 1986  cd GestionRendezvous/GestionRendezVous/
+ 1987  python3 manage.py runserver
+ 1988  python3 manage.py runserver 8081
+ 1989  git restore
+ 1990  clear
+ 1991  clear
+ 1992  python3 manage.py makemigrations
+ 1993  python3 manage.py migrate
+ 1994  cd ..
+ 1995  ls
+ 1996  git init
+ 1997  git add .
+ 1998  code .
+ 1999  history >text.txt
