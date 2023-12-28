@@ -13,7 +13,7 @@ class DonneAdmin(admin.ModelAdmin):
 
 
 class RDVAdmin(admin.ModelAdmin):
-    list_display = ('donnee','Date','Heure')
+    list_display = ('nom', 'prenom', 'email', 'sexe','age','Date','Heure')
 
 
 admin.site.register(sexe,sexeAdmin)

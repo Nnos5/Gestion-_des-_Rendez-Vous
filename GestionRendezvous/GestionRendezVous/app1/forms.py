@@ -20,10 +20,9 @@ class FormDonnee(forms.ModelForm):
 class FormRdv(forms.ModelForm):
     class Meta:
         model = RDV
-        fields = ['Date','Heure']
-        widgets={
-            'donnee': forms.HiddenInput()
-        }
+        fields = ['nom','prenom','email','sexe','age','Date','Heure']
+      
+        
 
     widgets ={
 
